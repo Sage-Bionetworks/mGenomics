@@ -1,0 +1,13 @@
+Package: mGenomics
+Type: Package
+Title: mGenomics 
+Version: 1.0-1
+Date: 2011-2-18
+Author: Brig Mecham
+Maintainer: Brig Mecham <brig.mecham@sagebase.org>
+Description: Functions used to build and curate the mGenomics Synapse Project.
+Depends: R (>= 2.2.1), corpcor, methods, Biobase
+SystemRequirements: Perl
+Imports: snm, affy, gcrma, oligo
+License: GPL
+LazyLoad: yes

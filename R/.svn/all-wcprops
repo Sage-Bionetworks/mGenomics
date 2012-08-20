@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8171/METAGENOMICS/trunk/mGenomics/R
+END
+getMirnaSeq.R
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8160/METAGENOMICS/trunk/mGenomics/R/getMirnaSeq.R
+END
+affyWorkflow.R
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7473/METAGENOMICS/trunk/mGenomics/R/affyWorkflow.R
+END
+buildmGenomicsObject.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7473/METAGENOMICS/trunk/mGenomics/R/buildmGenomicsObject.R
+END
+AllGenericMethods.R
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7473/METAGENOMICS/trunk/mGenomics/R/AllGenericMethods.R
+END
+callWorkflows.R
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8171/METAGENOMICS/trunk/mGenomics/R/callWorkflows.R
+END
+getRnaSeq.R
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8160/METAGENOMICS/trunk/mGenomics/R/getRnaSeq.R
+END
+processSequencingData.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8161/METAGENOMICS/trunk/mGenomics/R/processSequencingData.R
+END
+affyWorkflow.SNM.R
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8133/METAGENOMICS/trunk/mGenomics/R/affyWorkflow.SNM.R
+END
+agilentTxtWorfklow.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7984/METAGENOMICS/trunk/mGenomics/R/agilentTxtWorfklow.R
+END
