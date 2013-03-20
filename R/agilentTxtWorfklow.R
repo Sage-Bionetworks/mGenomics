@@ -281,8 +281,7 @@ loadAgilentFiles <- function(files, logFile, ...) {
 	next.i <- i+1
 	
 	if(length(files) > 1){
-#		for( i in next.i:length(files)) {
-		for( i in 6:10) {
+		for( i in next.i:length(files)) {
 			cat("\rLoading file",i,"of",length(files))
 			sendLogMessage(paste("Loading file",i,"of",length(files)),logFile)
 			data <- try(readAgilentFile(files[i], logFile), silent=TRUE)
